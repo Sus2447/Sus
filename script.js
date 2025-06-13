@@ -22,10 +22,10 @@ document.addEventListener('click', (e) => {
   ];
 
   const amongUsImages = [
-    '/img/among-us.svg',
-    '/img/among-us (2).svg',
-    '/img/among-us (3).svg',
-    '/img/among-us (5).svg'
+    './img/among-us.svg',
+    './img/among-us (2).svg',
+    './img/among-us (3).svg',
+    './img/among-us (5).svg'
   ];
 
   const distance = 60;
